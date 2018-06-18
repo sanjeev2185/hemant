@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 98FD-9A5D
+
+ Directory of C:\Users\EyeForWeb\Desktop\gittest\hemant
+
+18-Jun-18  04:59 PM    <DIR>          .
+18-Jun-18  04:59 PM    <DIR>          ..
+18-Jun-18  04:59 PM                 0 index.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,240,144,896 bytes free
